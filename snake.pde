@@ -1,7 +1,7 @@
 /*
 USE ARROW KEYS TO NAVIGATE THE SNAKE 
 FOOD IS CIRCLE AND SNAKE IS BOX[S]
-In checkGameOver if(2) is not working needs correction
+In checkGameOver if(2) is not working needs correction :-(
 */
 boolean firstMove=true,foundFood=false,firstFood=true,firstSnake=false;;
 
