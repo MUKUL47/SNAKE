@@ -1,4 +1,7 @@
-
+/*
+USE ARROW KEYS TO NAVIGATE THE SNAKE 
+In checkGameOver if(2) is not working needs correction
+*/
 boolean firstMove=true,foundFood=false,firstFood=true,firstSnake=false;;
 
 boolean Continue=true;
